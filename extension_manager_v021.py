@@ -14,7 +14,7 @@ __version__ = "0.2.1"
 __username__ = os.environ.get('USERNAME')
 __userprofile__ = os.environ.get('USERPROFILE')
 
-# Use of this source code is governed by the MIT license.
+# Use of this source code is governed by the GNU license.
 
 home_drive = os.environ.get('HOMEDRIVE') + '\\'
 
